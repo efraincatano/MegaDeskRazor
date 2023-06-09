@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MegaDesk
+build_property.RootNamespace = MegaDesk
+build_property.ProjectDir = C:\Users\e_c_p\OneDrive\Desktop\Universidad\9Semester10\C#.NET\MegaDeskRazor\MegaDesk\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\e_c_p\OneDrive\Desktop\Universidad\9Semester10\C#.NET\MegaDeskRazor\MegaDesk
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/DeskQuotes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVza1F1b3Rlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/DeskQuotes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVza1F1b3Rlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/DeskQuotes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVza1F1b3Rlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/DeskQuotes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVza1F1b3Rlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/DeskQuotes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVza1F1b3Rlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/e_c_p/OneDrive/Desktop/Universidad/9Semester10/C\#.NET/MegaDeskRazor/MegaDesk/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2tj1572dig
